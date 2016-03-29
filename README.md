@@ -9,3 +9,6 @@ Completed User Stories:
   <li>Slpash Screen</li>
   <li>Custom Styling</li>
 </ul>
+<p>
+<img src="http://i.imgur.com/AHG6Gxo.gif">
+</p>
